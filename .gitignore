@@ -39,12 +39,17 @@ vignettes/*.pdf
 .Renviron
 
 #data (excludes everything in the folder data)
-data/*
+raw_data/*
+clean_data/*
 
 # you can make exceptions for specific files
-!data/dragon_taxonomy.csv
+!code/data_dic/data_description.xlsx
 
 #figures & output (excludes all figure files)
 *.png
 *.pdf
 *.jpeg
+
+*.csv
+*.xls
+*.xlsx
