@@ -1,1 +1,1 @@
-Place the untouched raw data here as csv or txt formatted files. The R scripts for data curation go in the R folder.
+Place the untouched raw data here as csv or txt formatted file(s). The code for data curation should go in the folder named code.

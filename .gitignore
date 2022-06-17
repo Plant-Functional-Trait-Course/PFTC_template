@@ -43,7 +43,7 @@ raw_data/*
 clean_data/*
 
 # you can make exceptions for specific files
-!R/data_dic/data_description.xlsx
+!code/data_dic/data_description.xlsx
 
 #figures & output (excludes all figure files)
 *.png
