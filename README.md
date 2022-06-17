@@ -1,2 +1,2 @@
 # PFTC_template
-GitHub repo template for PFTC coruses
+GitHub repo template for PFTC courses.
